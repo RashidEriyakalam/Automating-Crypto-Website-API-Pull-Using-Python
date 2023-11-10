@@ -1,4 +1,4 @@
-# Automating Crypto Website API Pull Using Python
+# Automating Crypto Website API Pull Using Python.
 
 This project demonstrates how to automate the retrieval of cryptocurrency data from a website using Python and visualize it. It involves extracting data from the website's API, cleaning and analyzing the data, and creating visualizations for trends.
 
