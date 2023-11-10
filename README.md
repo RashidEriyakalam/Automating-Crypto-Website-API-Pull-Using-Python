@@ -31,6 +31,8 @@ The project demonstrates basic data analysis techniques to extract insights from
 ## Data Visualization
 
 Data visualizations are created to represent cryptocurrency trends. Visualizations include line plots and point plots to illustrate the price changes of specific coins over time.
+![Screenshot 2023-11-10 234044](https://github.com/RashidEriyakalam/Automating-Crypto-Website-API-Pull-Using-Python/assets/142217254/4f49cf3d-b1d1-4ef2-851c-cd49c3fadab5)
+
 
 ## How to Use
 
